@@ -1,5 +1,5 @@
 # Portfolio
-## This is a repository to showcase skills, share projects and track my progress in Data Analytics and data visualization related topics.
+## This is a repository to showcase skills, share projects and track my progress in data analytics and data visualization related topics.
 
 # Content
 ## 1. <a href="https://github.com/alfaradi/portfolio/blob/main/Video_games_analysis_R/video-game-sales-analysis.ipynb"> Video Games Analysis (R) </a>
