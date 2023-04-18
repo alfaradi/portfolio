@@ -15,4 +15,4 @@ This project was motivated by the curiosity of my friends and I to find out the 
 What I have done:
 - Collected minimum wage data for each province from various sources, ranging from official government websites to governor's decrees.
 - Aggregated and cleaned all the data collected using Excel. And matched the data to the shapefile of the Java island regencies/cities. Here's the <a href="https://github.com/alfaradi/portfolio/blob/main/UMK_Pulau_Jawa_Excel-Tableau/UMK_Pulau_Jawa_Dataset.xlsx"> Excel File. </a>
-- Creating an interactive dashboard using Tableau to make it easier to understand the data and gain insights. Here's the link to  <a href="https://public.tableau.com/app/profile/alfaradi.krisna.ocsyta/viz/UpahMinimumKabupatenKotadiPulauJawa2018-2023/Dashboard1"> The Dashboard in My Tableau Public </a>
+- Created an interactive dashboard using Tableau to make it easier to understand the data and gain insights. Here's the link to  <a href="https://public.tableau.com/app/profile/alfaradi.krisna.ocsyta/viz/UpahMinimumKabupatenKotadiPulauJawa2018-2023/Dashboard1"> The Dashboard in My Tableau Public </a>
